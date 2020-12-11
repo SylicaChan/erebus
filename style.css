@@ -27,7 +27,7 @@ h1::before {
     background: url(https://1.bp.blogspot.com/-bTPOuDuoVLg/X9OLfwCDvPI/AAAAAAAAAWI/IeHb8W592cofetVYPUhRe6hI3whR2kPmgCLcBGAsYHQ/s210/ere.jpg)no-repeat fixed top center;
     position: absolute;
     bottom: -100px;
-    right: 0;
+    right: 15px;
     content: '';
     width: 200px;
     height: 80px;
