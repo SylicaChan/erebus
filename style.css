@@ -33,7 +33,7 @@ h1::before {
     height: 80px;
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(115, 2, 108, 0.65);
-
+}
 h1::after {
     content: '28 December 2020, Monday';
     display: block;
