@@ -19,7 +19,8 @@ h1 {
   padding: 0 20px;
   background: rgba(0, 0, 0, 0.74);
   text-align: center;
-  box-shadow: 0 0 10px #eb00ff;
+  box-shadow: 0 0 10px #7c0486;
+  border-radius: 10px;
 }
 h1::after {
     content: '28 December 2020, Monday';
