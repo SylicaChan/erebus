@@ -21,3 +21,14 @@ h1 {
   text-align: center;
 }
 
+@media screen and (max-width: 900px) {
+html::after {
+    content: 'Halaman tidak dapat di lihat melalui Smartphone.';
+    text-align: center;
+    position: absolute;
+    top: 20%;
+    left: 20%;
+    right: 20%;
+}
+body {display:none;}
+}
