@@ -5,6 +5,7 @@ body {
 }
 canvas{display:block}
 h1 {
+  font-family: 'Saira Semi Condensed', sans-serif;
   position: absolute;
   top: 20%;
   left: 50%;
