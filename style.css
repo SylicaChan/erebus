@@ -15,5 +15,8 @@ h1 {
   font-weight: 900;
   -webkit-user-select: none;
   user-select: none;
+  border: 3px solid #fbffff;
+  padding: 0 20px;
+  background: rgba(0, 0, 0, 0.74);
 }
 
