@@ -46,14 +46,15 @@ h1::after {
     position: absolute;
     top: calc(20% + 180px);
     left: calc(50% - 300px);
-    background: #fff;
+    background: rgb(255, 255, 255);
     padding: 3px 8px;
     border-radius: 4px;
     font-size: 18px;
     cursor: pointer;
     font-family: 'Great Vibes', cursive;
-    box-shadow: 0 0 5px #9d22d5,0 0 10px #9d22d5,0 0 20px #9d22d5,0 0 40px #9d22d5;
+    box-shadow: 0 0 15px rgba(181, 28, 223, 0.73);
     animation: animate 5s linear infinite;
+    text-shadow: 0 0 5px rgba(0, 88, 255, 0.29);
 }
 @keyframes animate {
   0% {filter: hue-rotate(0deg);}
