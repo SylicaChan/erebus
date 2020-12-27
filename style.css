@@ -42,6 +42,16 @@ h1::after {
     margin: 20px auto;
     text-shadow: 0 0 10px #1f4fac;
 }
+.anu {
+    position: absolute;
+    top: calc(20% + 180px);
+    left: calc(50% - 300px);
+    background: #fff;
+    padding: 3px 8px;
+    border-radius: 4px;
+    font-size: 18px;
+    cursor: pointer;
+}
 
 @media screen and (max-width: 1080px) {
 html::after {
