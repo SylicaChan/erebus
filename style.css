@@ -44,7 +44,7 @@ h1::after {
 }
 .anu {
     position: absolute;
-    top: calc(20% + 180px);
+    top: calc(20% + 160px);
     left: calc(50% - 300px);
     background: rgb(255, 255, 255);
     padding: 3px 8px;
