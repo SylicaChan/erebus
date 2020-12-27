@@ -43,7 +43,7 @@ h1::after {
     text-shadow: 0 0 10px #1f4fac;
 }
 
-@media screen and (max-width: 900px) {
+@media screen and (max-width: 1080px) {
 html::after {
     content: 'Halaman tidak dapat di lihat melalui Smartphone.';
     text-align: center;
