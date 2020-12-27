@@ -51,6 +51,7 @@ h1::after {
     border-radius: 4px;
     font-size: 18px;
     cursor: pointer;
+    font-family: 'Great Vibes', cursive;
 }
 
 @media screen and (max-width: 1080px) {
